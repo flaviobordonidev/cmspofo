@@ -38,7 +38,7 @@ gem 'mini_magick', '~> 4.9', '>= 4.9.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # Flexible authentication solution for Rails with Warden 
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 
 # Object oriented authorization for Rails applications
 gem 'pundit', '~> 2.0', '>= 2.0.1'
